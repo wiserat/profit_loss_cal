@@ -6,6 +6,7 @@ Just tell if you are planning on going short or long, buy and sell price, levera
 `
 git clone https://github.com/wiserat/profit_loss_cal.git
 `
+
 `
 sudo cp /path/to/pnl /usr/local/bin
 `
